@@ -1,0 +1,23 @@
+_repo: Tom-of-the-Raiders_7504
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bishop, Austin
+    gutenberg_agent_id: '2494'
+    url: http://www.gutenberg.org/2009/agents/2494
+description: Cover -- Contents.
+gutenberg_bookshelf: US Civil War
+gutenberg_issued: '2005-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7504'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- GITenberg
+title: Tom of the Raiders
+url: http://www.gutenberg.org/ebooks/7504
