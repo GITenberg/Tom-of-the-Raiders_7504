@@ -1,11 +1,16 @@
 _repo: Tom-of-the-Raiders_7504
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bishop, Austin
     gutenberg_agent_id: '2494'
     url: http://www.gutenberg.org/2009/agents/2494
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7504#Tom-of-the-Raiders
 gutenberg_bookshelf: US Civil War
 gutenberg_issued: '2005-02-01'
 gutenberg_type: Text
